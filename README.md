@@ -5,7 +5,7 @@ Heart Disease Classification Using Logistic Regression, Decision Trees, and XGBo
 1. **Data Preparation and Pairplot Analysis**
    - **Column Handling and Cleanup:**
      - Parsed column headers and loaded the dataset into a DataFrame.
-     - Identified and removed rows containing non-numeric values, such as '?'.
+     - Identified and removed rows containing non-numeric values.
      - Converted all data to numeric types, ensuring consistency for model training.
    - **Feature Selection and Visualization:**
      - Selected the 14 main features for analysis, focusing on potential correlations with heart disease.
