@@ -1,5 +1,3 @@
-Heart Disease Classification Using Logistic Regression, Decision Trees, and XGBoost
-
 ### **Heart Disease Classification**
 
 1. **Data Preparation and Pairplot Analysis**
